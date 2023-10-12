@@ -1,3 +1,2 @@
 # Heart_Attack-prediction
-CNN heart attack prediction model 
-
+CNN heart attack prediction model
