@@ -67,4 +67,5 @@ The real challenge would be to train a machine learning model on a real dataset 
 ## References
 
 *(Real Data) https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset/code 
-* (Synthetic Data) https://www.kaggle.com/datasets/iamsouravbanerjee/heart-attack-prediction-dataset
+
+*(Synthetic Data) https://www.kaggle.com/datasets/iamsouravbanerjee/heart-attack-prediction-dataset
