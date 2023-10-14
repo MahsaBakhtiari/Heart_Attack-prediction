@@ -63,3 +63,8 @@ The real challenge would be to train a machine learning model on a real dataset 
   * Value 2: showing probable or definite left ventricular hypertrophy by Estes' criteria
 * thalach: maximum heart rate achieved
 * target: 0= less chance of heart attack 1= more chance of heart attack
+
+## References
+
+*(Real Data) https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset/code 
+* (Synthetic Data) https://www.kaggle.com/datasets/iamsouravbanerjee/heart-attack-prediction-dataset
