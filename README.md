@@ -68,7 +68,9 @@ The real challenge would be to train a machine learning model on a real dataset 
 
 The pair chart shows that the combination of thalachh(resting blood pressure) and age together and thall(Thal rate) by itself separates the two target labels efficiently. 
 ![](https://github.com/MahsaBakhtiari/Heart_Attack-prediction/blob/main/RealData/Plots/pairPlot.png)
-
+ 
+Plotting the histogram of features, shows their distributions.
+![](https://github.com/MahsaBakhtiari/Heart_Attack-prediction/blob/main/RealData/Plots/distribution.png)
 
 
 
