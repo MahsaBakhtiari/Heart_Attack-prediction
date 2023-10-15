@@ -64,6 +64,14 @@ The real challenge would be to train a machine learning model on a real dataset 
 * thalach: maximum heart rate achieved
 * target: 0= less chance of heart attack 1= more chance of heart attack
 
+## Visualisation
+
+The pair chart shows that the combination of thalachh(resting blood pressure) and age together and thall(Thal rate) by itself separates the two target labels efficiently. 
+![](https://github.com/MahsaBakhtiari/Heart_Attack-prediction/blob/main/RealData/Plots/pairPlot.png)
+
+
+
+
 ## References
 
 *(Real Data) https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset/code 
