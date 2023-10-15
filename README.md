@@ -83,6 +83,12 @@ A deep learning model was trained to predict heart attack risk using the feature
 The model achieved 87% accuracy on  both the train and test sets. 
 ![](https://github.com/MahsaBakhtiari/Heart_Attack-prediction/blob/main/RealData/Plots/train_test_validations.png)
 
+### Random Forest Model
+
+A random forest classifier was trained on the real data and achieved the same accuracy as the NN model. The most important features are shown below. 
+
+![](https://github.com/MahsaBakhtiari/Heart_Attack-prediction/blob/main/RealData/Plots/featureimportance.png)
+
 
 
 
