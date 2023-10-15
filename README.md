@@ -79,6 +79,9 @@ As shown below there is a high correlation between some features, for example, a
 ![](https://github.com/MahsaBakhtiari/Heart_Attack-prediction/blob/main/RealData/Plots/correlation.png)
 
 ### Deep Learning Modeling
+A deep learning model was trained to predict heart attack risk using the features above. This model has six dense layers with reLu activation and a final dense layer with  a sigmoid activation function that outputs the probability of heart attack. This model was trained with binary cross entropy loss and Adam optimizer with the learning rate of 1e-4 and  weight decay of 1e-2 to help with overfitting. 
+The model achieved 87% accuracy on  both the train and test sets. 
+![](https://github.com/MahsaBakhtiari/Heart_Attack-prediction/blob/main/RealData/Plots/train_test_validations.png)
 
 
 
