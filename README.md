@@ -69,11 +69,14 @@ The real challenge would be to train a machine learning model on a real dataset 
 The pair chart shows that the combination of thalachh(resting blood pressure) and age together and thall(Thal rate) by itself separates the two target labels efficiently. 
 ![](https://github.com/MahsaBakhtiari/Heart_Attack-prediction/blob/main/RealData/Plots/pairPlot.png)
  
-Plotting the histogram of features, shows their distributions.
+Plotting the histogram of features shows their distributions.
 ![](https://github.com/MahsaBakhtiari/Heart_Attack-prediction/blob/main/RealData/Plots/distribution.png)
 
 The boxplot shows the outliers of numerical features. As shown below, there are not as many outliers to intervene with the results.
 ![](https://github.com/MahsaBakhtiari/Heart_Attack-prediction/blob/main/RealData/Plots/boxPlot.png)
+
+As shown below there is a high correlation between some features, for example, age and halacha (maximum heart rate achieved), that is expected; however, considering the primary modeling technique used for this project(deep learning) and a low number of features, we can afford to use all the features we have.
+![](https://github.com/MahsaBakhtiari/Heart_Attack-prediction/blob/main/RealData/Plots/correlation.png)
 
 
 
