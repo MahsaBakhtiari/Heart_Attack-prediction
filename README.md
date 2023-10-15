@@ -72,6 +72,11 @@ The pair chart shows that the combination of thalachh(resting blood pressure) an
 Plotting the histogram of features, shows their distributions.
 ![](https://github.com/MahsaBakhtiari/Heart_Attack-prediction/blob/main/RealData/Plots/distribution.png)
 
+The boxplot shows the outliers of numerical features. As shown below, there are not as many outliers to intervene with the results.
+![](https://github.com/MahsaBakhtiari/Heart_Attack-prediction/blob/main/RealData/Plots/boxPlot.png)
+
+
+
 
 
 ## References
